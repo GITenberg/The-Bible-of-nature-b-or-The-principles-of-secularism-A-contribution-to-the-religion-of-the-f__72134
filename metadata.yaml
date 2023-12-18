@@ -1,0 +1,36 @@
+_repo: The-Bible-of-nature-b-or-The-principles-of-secularism-A-contribution-to-the-religion-of-the-f__72134
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oswald, Felix L. (Felix Leopold)
+    aliases:
+    - Oswald, F. L. (Felix Leopold)
+    - Oswald, Felix Leopold
+    birthdate: 1845
+    deathdate: 1906
+    gutenberg_agent_id: '56556'
+    url: http://www.gutenberg.org/2009/agents/56556
+    wikipedia: https://en.wikipedia.org/wiki/Felix_Leopold_Oswald
+description: ''
+gutenberg_issued: '2023-11-15'
+identifiers:
+  gutenberg: '72134'
+language: en
+pgterms:marc904: https://archive.org/details/bibleofnatureorp00oswa/page/n8/mode/2up
+pgterms:marc905: 20200404051403oswald
+pgterms:marc906: '1888'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThe Truth Seeker Company, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Secularism'
+- !lcc 'BL'
+- GITenberg
+title: 'The Bible of nature : $b or, The principles of secularism. A contribution
+  to the religion of the future'
+url: http://www.gutenberg.org/ebooks/72134
